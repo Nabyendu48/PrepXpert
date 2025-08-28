@@ -2,7 +2,7 @@
 This is a Ai generated Mock interview app to help people prepare for their upcoming interviews 
 Here are the two official Vite plugins for React with clickable links for easy reference:
 
-@vitejs/plugin-react
+@[link]vitejs/plugin-react
  – Uses Babel (and esbuild) for Fast Refresh
 NPM page: @vitejs/plugin-react (latest version 5.0.2; published ~13 hours ago) 
 npm
